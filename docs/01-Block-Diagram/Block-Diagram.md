@@ -21,4 +21,4 @@ To get some initial formatting help, one can view ["here"](https://embedded-syst
 ## Example Block Diagram 
 Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
 
-<img width="1877" height="472" alt="Team207_Block_Diagram drawio" src="[https://github.com/user-attachments/assets/b9d4761e-9fd5-431e-8df3-9de2613bb145](https://github.com/riatron8/riatron8.github.io/blob/main/docs/01-Block-Diagram/Riley_Franco_Block_Diagram.png)" />
+<img width="1877" height="472" alt="Riley_Franco_Diagram drawio" src="https://github.com/riatron8/riatron8.github.io/blob/main/docs/01-Block-Diagram/Riley_Franco_Block_Diagram.png"/>
