@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image3.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image3.png" style="max-width:200px;" /></p>
 <p>Option 1</p>
 <p>Fairchild FAN 8100N</p>
 <p>$1.16/ each</p>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image1.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image1.png" style="max-width:200px;" /></p>
 <p>Option 2</p>
 <p>DRV8411 Dual H-Bridge Motor Driver</p>
 <p>$2.30/ each</p>
@@ -89,7 +89,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image6.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image6.png" style="max-width:200px;" /></p>
 <p>Option 3</p>
 <p>DRV8870 Brushed-DC Motor Driver</p>
 <p>$2.09/ each</p>
@@ -132,7 +132,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image4.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image4.png" style="max-width:200px;" /></p>
 <p>Option 1</p>
 <p>Pololu 4754 Metal Gearmotor</p>
 <p>$44.95/ each</p>
@@ -168,7 +168,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image2.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image2.png" style="max-width:200px;" /></p>
 <p>Option 2</p>
 <p>STANDARD MOTOR 6600 RPM 12V</p>
 <p>$2.75/ each</p>
@@ -204,7 +204,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="assets/images/media/image5.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image5.png" style="max-width:200px;" /></p>
 <p>Option 3</p>
 <p>Portescap 17N78210E.1 Brushed DC Motor</p>
 <p>$141.02/ each</p>
