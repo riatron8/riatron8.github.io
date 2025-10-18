@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <th style="text-align: left;"><p><img
-src="./assets/images/media/image3.png"
+src="/assets/images/media/image3.png"
 style="width:1.17188in;height:1.18049in" /></p>
 <p>Option 1</p>
 <p>Fairchild FAN 8100N</p>
@@ -51,7 +51,7 @@ to product</u></a></em></p></th>
 <th>Cons</th>
 </tr>
 <tr>
-<th><p><img src="./assets/images/media/image1.png"
+<th><p><img src="/assets/images/media/image1.png"
 style="width:1.21354in;height:1.22142in" /></p>
 <p>Option 2</p>
 <p>DRV8411 Dual H-Bridge Motor Driver</p>
@@ -87,7 +87,7 @@ to product</u></a></em></p></th>
 <th>Cons</th>
 </tr>
 <tr>
-<th><p><img src="./assets/images/media/image6.png"
+<th><p><img src="/assets/images/media/image6.png"
 style="width:1.28224in;height:1.05761in" /></p>
 <p>Option 3</p>
 <p>DRV8870 Brushed-DC Motor Driver</p>
@@ -134,7 +134,7 @@ minimize damage and potential replacement.
 <th>Cons</th>
 </tr>
 <tr>
-<th><p><img src="./assets/images/media/image4.png"
+<th><p><img src="/assets/images/media/image4.png"
 style="width:1.88021in;height:1.89167in" /></p>
 <p>Option 1</p>
 <p>Pololu 4754 Metal Gearmotor</p>
@@ -169,7 +169,7 @@ to product</u></a></em></p></th>
 <th>Cons</th>
 </tr>
 <tr>
-<th><p><img src="./assets/images/media/image2.png"
+<th><p><img src="/assets/images/media/image2.png"
 style="width:2.02083in;height:2.02778in" /></p>
 <p>Option 2</p>
 <p>STANDARD MOTOR 6600 RPM 12V</p>
@@ -204,7 +204,7 @@ to product</u></a></em></p></th>
 <th>Cons</th>
 </tr>
 <tr>
-<th><p><img src="./assets/images/media/image5.png"
+<th><p><img src="/assets/images/media/image5.png"
 style="width:1.66146in;height:1.67002in" /></p>
 <p>Option 3</p>
 <p>Portescap 17N78210E.1 Brushed DC Motor</p>
