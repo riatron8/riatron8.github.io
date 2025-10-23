@@ -135,7 +135,7 @@
 <p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image4.png" style="max-width:200px;" /></p>
 <p>Option 1</p>
 <p>Pololu 4754 Metal Gearmotor</p>
-<p>$44.95/ each</p>
+<p>$70.95/ each</p>
 <p><em><a href="https://www.digikey.com/en/products/detail/pololu/4754/10450208">Link to product</a></em></p>
 </th>
 <th>
