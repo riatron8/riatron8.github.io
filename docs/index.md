@@ -9,9 +9,9 @@ tags:
 as part of<br>
 <font size= "8"> Project Name</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 207 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: 09, 05, 2025**
 </center>
 
 ## Introduction
@@ -25,6 +25,7 @@ for<br>
 
 
 ### My Contribution
+Setting up the motor, setting up the basis of the code, pushing the team and ensuring projects are on time, meetings happen, and work is of quality
 
 * This needs to be updated to reflect a team introduction
 * Content should also help an unfamiliar reader navigate to areas of interest. Information like:
