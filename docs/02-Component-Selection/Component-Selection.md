@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <th>
-<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image3.png" style="max-width:200px;" /></p>
+<p><img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/assets/images/media/image.png" style="max-width:200px;" /></p>
 <p>Option 1</p>
 <p>Fairchild FAN 8100N</p>
 <p>$1.16/ each</p>
