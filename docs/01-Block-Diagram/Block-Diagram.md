@@ -6,19 +6,8 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+This block diagram is intended to convey how this section of the team's project is meant to connect together, as well as the wiring that will take place between the microcontroller and the various components. The connector at the bottom reflects inputs and outputs between the boards of the team members. The arrows indicate the how outputs connect to inputs. In addition, the dotted lines indicate that all components inside are powered by the power source that is highlighted in the corner.
 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
-
+## Block Diagram 
 ![Riley Franco Block Diagram](https://github.com/riatron8/riatron8.github.io/raw/main/docs/01-Block-Diagram/Updated_Riley_Franco_Block_Diagram.png)
