@@ -3,16 +3,14 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
-
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+This power budget is intended to show and ensure that the components of the subsystem can be properly powered with the selected power componenets and regulators. I put all the major componenets of the subsystem into the spreadsheet, seperating them based on their intended power rail, and calculated if the maximum current draw from all components would be less than the amount of current provided by the power sources, with the addition of a 25% safety margin.
 
 ![budget](https://github.com/riatron8/riatron8.github.io/blob/main/docs/05-Power-Budget/Power_Budget_Image-1.png){style width:"350" height:"300;"}
 
 
 ## Conclusions
 
-From the prepare Power Budget, .....
+From the prepare Power Budget, it is clear that all componenets will be able to operate under worst-case conditions, ensuring that the design is safe to use and is very unlikely to break as a result of an overdraw of current.
 
 ## Resouces
 
