@@ -13,4 +13,4 @@ This schematic is design to support .... (highlight functionally, power, and con
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_schematic_design.pdf), and the ZIP folder of the project [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_Schematic_Design.zip).
+The schematic as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_Schematic_Design.pdf), and the ZIP folder of the project [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_Schematic_Design.zip).
