@@ -16,7 +16,7 @@ for<br>
 
 ## Introduction
 
-This datasheet is intended to support the documentation of the Trash Canner project and record what I personally have doen to contribute to this project. It contains my block diagram, component selection, bill of materials, schematic, and power budget.
+This datasheet is intended to support the documentation of the Trash Canner project and record what I personally have done to contribute to this project. It contains my block diagram, component selection, bill of materials, schematic, and power budget.
 
 ### Project Summary
 
