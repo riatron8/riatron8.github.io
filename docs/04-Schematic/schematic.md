@@ -7,7 +7,7 @@ title: Schematic
 This schematic is design to support .... (highlight functionally, power, and controller).
 
 
-![schematic](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_Schematic_Design-1.png){style width:"350" height:"300;"}
+![schematic](https://github.com/riatron8/riatron8.github.io/raw/main/docs/04-Schematic/Subsystem_Schematic_Design_Print.png){style width:"350" height:"300;"}
 **Figure ##:** Showing a example schematic.
 
 
