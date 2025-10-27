@@ -8,7 +8,7 @@
   </tr>
   <tr>
    <td>
-<img src="docs/image/image1.png" width="" alt="Option 1: Fairchild FAN 8100N" title="Fairchild FAN 8100N">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image1.png" width="" alt="Option 1: Fairchild FAN 8100N" title="Fairchild FAN 8100N">
 <p>
 Option 1<br>
 Fairchild FAN 8100N<br>
@@ -40,7 +40,7 @@ $1.16/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image2.png" width="" alt="Option 2: DRV8411 Dual H-Bridge Motor Driver" title="DRV8411 Dual H-Bridge Motor Driver">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image2.png" width="" alt="Option 2: DRV8411 Dual H-Bridge Motor Driver" title="DRV8411 Dual H-Bridge Motor Driver">
 <p>
 Option 2<br>
 DRV8411 Dual H-Bridge Motor Driver<br>
@@ -71,7 +71,7 @@ $2.30/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image3.png" width="" alt="Option 3: DRV8870 Brushed-DC Motor Driver" title="DRV8870 Brushed-DC Motor Driver">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image3.png" width="" alt="Option 3: DRV8870 Brushed-DC Motor Driver" title="DRV8870 Brushed-DC Motor Driver">
 <p>
 Option 3<br>
 DRV8870 Brushed-DC Motor Driver<br>
@@ -109,7 +109,7 @@ $2.09/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image4.png" width="" alt="Option 1: Pololu 3483 Metal Gearmotor" title="Pololu 3483 Metal Gearmotor">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image4.png" width="" alt="Option 1: Pololu 3483 Metal Gearmotor" title="Pololu 3483 Metal Gearmotor">
 <p>
 Option 1<br>
 Pololu 3483 Metal Gearmotor<br>
@@ -140,7 +140,7 @@ $35.95/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image5.png" width="" alt="Option 2: STANDARD MOTOR 6600 RPM 12V" title="STANDARD MOTOR 6600 RPM 12V">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image5.png" width="" alt="Option 2: STANDARD MOTOR 6600 RPM 12V" title="STANDARD MOTOR 6600 RPM 12V">
 <p>
 Option 2<br>
 STANDARD MOTOR 6600 RPM 12V<br>
@@ -170,7 +170,7 @@ $2.75/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image6.png" width="" alt="Option 3: Portescap 17N78210E.1 Brushed DC Motor" title="Portescap 17N78210E.1 Brushed DC Motor">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image6.png" width="" alt="Option 3: Portescap 17N78210E.1 Brushed DC Motor" title="Portescap 17N78210E.1 Brushed DC Motor">
 <p>
 Option 3<br>
 Portescap 17N78210E.1 Brushed DC Motor<br>
@@ -208,7 +208,7 @@ $141.02/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image7.png" width="" alt="Option 1: Taejin LM7805T" title="Taejin LM7805T">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image7.png" width="" alt="Option 1: Taejin LM7805T" title="Taejin LM7805T">
 <p>
 Option 1<br>
 Taejin LM7805T<br>
@@ -239,7 +239,7 @@ $0.33/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image8.png" width="" alt="Option 2: L7805CV" title="L7805CV">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image8.png" width="" alt="Option 2: L7805CV" title="L7805CV">
 <p>
 Option 2<br>
 L7805CV<br>
@@ -269,12 +269,12 @@ $0.50/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image9.png" width="" alt="Option 3: TSR 1-2450E" title="TSR 1-2450E">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image9.png" width="" alt="Option 3: TSR 1-2450E" title="TSR 1-2450E">
 <p>
 Option 3<br>
 TSR 1-2450E<br>
 $3.40/ each<br>
-<em><a href="https://www.digikey.com/en/products/detail/traco-power/TSR-1-2450E/12171283">Link to product</a></em>
+<em><a href="https://www.digikey.com/en/products/detail/traco-power/TSR-1-2450E/12171283?gclsrc=aw.ds&gad_source=1&gad_campaignid=20514529159&gbraid=0AAAAADrbLlgWGBlWjflyHhRiGaLYv3Epu&gclid=CjwKCAjwjffHBhBuEiwAKMb8pD-mqqOCOsPZwvH_wFIX80YuV_EtZSpPDIO-yR5d0faT6Zg0MA_hdBoCtrwQAvD_BwE">Link to product</a></em>
    </td>
    <td>
 <ul>
@@ -306,12 +306,12 @@ $3.40/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image10.png" width="" alt="Option 1: TS02-66-43-BK-260-LCR-D" title="TS02-66-43-BK-260-LCR-D">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image10.png" width="" alt="Option 1: TS02-66-43-BK-260-LCR-D" title="TS02-66-43-BK-260-LCR-D">
 <p>
 Option 1<br>
 TS02-66-43-BK-260-LCR-D<br>
 $0.10/ each<br>
-<em><a href="https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-260-LCR-D/15634346">Link to product</a></em>
+<em><a href="https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-260-LCR-D/15634346?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhl1FW1Wjj4ieek0F8WLsTTK&gclid=CjwKCAjwjffHBhBuEiwAKMb8pLnWc03-gP3PWjbd43iN3Hi-nOv00Bcr7raPPPTGUZCc2KiJV5ae-xoCMFgQAvD_BwE">Link to product</a></em>
    </td>
    <td>
 <ul>
@@ -337,7 +337,7 @@ $0.10/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image11.png" width="" alt="Option 2: SWITCH TACTILE SPST-NO 0.05A 24V" title="SWITCH TACTILE SPST-NO 0.05A 24V">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image11.png" width="" alt="Option 2: SWITCH TACTILE SPST-NO 0.05A 24V" title="SWITCH TACTILE SPST-NO 0.05A 24V">
 <p>
 Option 2<br>
 SWITCH TACTILE SPST-NO 0.05A 24V<br>
@@ -366,7 +366,7 @@ $0.14/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image12.png" width="" alt="Option 3: CKN12221-1-ND" title="CKN12221-1-ND">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image12.png" width="" alt="Option 3: CKN12221-1-ND" title="CKN12221-1-ND">
 <p>
 Option 3<br>
 CKN12221-1-ND<br>
@@ -402,7 +402,7 @@ $0.14/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image13.png" width="" alt="Option 1: ALITOVE 12V 5A" title="ALITOVE 12V 5A">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image13.png" width="" alt="Option 1: ALITOVE 12V 5A" title="ALITOVE 12V 5A">
 <p>
 Option 1<br>
 ALITOVE 12V 5A<br>
@@ -433,22 +433,23 @@ $12.99/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image14.png" width="" alt="Option 2: 1286-1213-ND" title="1286-1213-ND">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image14.png" width="" alt="Option 2: 1286-1213-ND" title="1286-1213-ND">
 <p>
 Option 2<br>
 1286-1213-ND<br>
-$19.99/ each<br>
-<em><a href="https://www.digikey.com/en/products/detail/digilent-inc/240-057/9445917">Link to product</a></em>
+$7.99/ each<br>
+<em><a href="https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-50-12/3478366">Link to product</a></em>
    </td>
    <td>
 <ul>
-<li>The power supply fits into a wall outlet</li>
-<li>The DC power jack fits with the other parts the team has used well.</li>
+<li>Good voltage and current rating for the project</li>
+<li>Multiple suppliers</li>
 </ul>
    </td>
    <td>
 <ul>
-<li>Expensive compared to other options</li>
+<li>Somewhat expensive shipping</li>
+<li>Does not include wall outlet adapter</li>
 </ul>
    </td>
   </tr>
@@ -462,27 +463,26 @@ $19.99/ each<br>
   </tr>
   <tr>
    <td>
-<img src="docs/image/image15.png" width="" alt="Option 3: MEAN WELL USA AC/DC CONVERTER 12V 36W" title="MEAN WELL USA AC/DC CONVERTER 12V 36W">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image15.png" width="" alt="Option 3: Generic 12V 3A" title="Generic 12V 3A">
 <p>
 Option 3<br>
-MEAN WELL USA AC/DC CONVERTER 12V 36W<br>
-$13.30/ each<br>
-<em><a href="https://www.digikey.com/en/products/detail/mean-well-usa-inc/RS-35-12/7706181">Link to product</a></em>
+Generic 12V 3A<br>
+$4.99/ each<br>
+<em><a href="https://www.amazon.com/12V-3A-Adapter-100-240V-Converter/dp/B08F8QXH4X">Link to product</a></em>
    </td>
    <td>
 <ul>
-<li>A fairly cheap option</li>
-<li>Very powerful</li>
+<li>Cheap and easy to order</li>
 </ul>
    </td>
    <td>
 <ul>
-<li>It may be too powerful for the motor we are planning to use.</li>
-<li>It will be difficult to connect and is unlike the others used by the team</li>
+<li>Not enough current for full motor stall</li>
+<li>Variable quality of generic adapters</li>
 </ul>
    </td>
   </tr>
 </table>
 
-**Choice**: Option 1: ALITOVE 12V 5A  
-**Rationale**: The DC power jack connector and the ability to switch the connection type is the most useful, combined with being the cheapest option out of the potential choices. Additionally, the Amperage should be fine, as the motor should never stall in its intended application.
+**Choice**: Option 2: 1286-1213-ND  
+**Rationale**: This power supply provides the best current and voltage ratings for the motors, while remaining reasonably priced and having multiple suppliers to choose from.
