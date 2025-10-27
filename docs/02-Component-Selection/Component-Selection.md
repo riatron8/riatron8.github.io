@@ -8,7 +8,7 @@
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image1.png" width="" alt="Option 1: Fairchild FAN 8100N" title="Fairchild FAN 8100N">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image15.png" width="" alt="Option 1: Fairchild FAN 8100N" title="Fairchild FAN 8100N">
 <p>
 Option 1<br>
 Fairchild FAN 8100N<br>
@@ -40,7 +40,7 @@ $1.16/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image2.png" width="" alt="Option 2: DRV8411 Dual H-Bridge Motor Driver" title="DRV8411 Dual H-Bridge Motor Driver">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image13.png" width="" alt="Option 2: DRV8411 Dual H-Bridge Motor Driver" title="DRV8411 Dual H-Bridge Motor Driver">
 <p>
 Option 2<br>
 DRV8411 Dual H-Bridge Motor Driver<br>
@@ -71,7 +71,7 @@ $2.30/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image3.png" width="" alt="Option 3: DRV8870 Brushed-DC Motor Driver" title="DRV8870 Brushed-DC Motor Driver">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image2.png" width="" alt="Option 3: DRV8870 Brushed-DC Motor Driver" title="DRV8870 Brushed-DC Motor Driver">
 <p>
 Option 3<br>
 DRV8870 Brushed-DC Motor Driver<br>
@@ -109,7 +109,7 @@ $2.09/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image4.png" width="" alt="Option 1: Pololu 3483 Metal Gearmotor" title="Pololu 3483 Metal Gearmotor">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image11.png" width="" alt="Option 1: Pololu 3483 Metal Gearmotor" title="Pololu 3483 Metal Gearmotor">
 <p>
 Option 1<br>
 Pololu 3483 Metal Gearmotor<br>
@@ -140,7 +140,7 @@ $35.95/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image5.png" width="" alt="Option 2: STANDARD MOTOR 6600 RPM 12V" title="STANDARD MOTOR 6600 RPM 12V">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image12.png" width="" alt="Option 2: STANDARD MOTOR 6600 RPM 12V" title="STANDARD MOTOR 6600 RPM 12V">
 <p>
 Option 2<br>
 STANDARD MOTOR 6600 RPM 12V<br>
@@ -170,7 +170,7 @@ $2.75/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image6.png" width="" alt="Option 3: Portescap 17N78210E.1 Brushed DC Motor" title="Portescap 17N78210E.1 Brushed DC Motor">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image3.png" width="" alt="Option 3: Portescap 17N78210E.1 Brushed DC Motor" title="Portescap 17N78210E.1 Brushed DC Motor">
 <p>
 Option 3<br>
 Portescap 17N78210E.1 Brushed DC Motor<br>
@@ -208,7 +208,7 @@ $141.02/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image7.png" width="" alt="Option 1: Taejin LM7805T" title="Taejin LM7805T">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image10.png" width="" alt="Option 1: Taejin LM7805T" title="Taejin LM7805T">
 <p>
 Option 1<br>
 Taejin LM7805T<br>
@@ -239,7 +239,7 @@ $0.33/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image8.png" width="" alt="Option 2: L7805CV" title="L7805CV">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image14.png" width="" alt="Option 2: L7805CV" title="L7805CV">
 <p>
 Option 2<br>
 L7805CV<br>
@@ -269,7 +269,7 @@ $0.50/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image9.png" width="" alt="Option 3: TSR 1-2450E" title="TSR 1-2450E">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image5.png" width="" alt="Option 3: TSR 1-2450E" title="TSR 1-2450E">
 <p>
 Option 3<br>
 TSR 1-2450E<br>
@@ -306,7 +306,7 @@ $3.40/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image10.png" width="" alt="Option 1: TS02-66-43-BK-260-LCR-D" title="TS02-66-43-BK-260-LCR-D">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image8.png" width="" alt="Option 1: TS02-66-43-BK-260-LCR-D" title="TS02-66-43-BK-260-LCR-D">
 <p>
 Option 1<br>
 TS02-66-43-BK-260-LCR-D<br>
@@ -337,7 +337,7 @@ $0.10/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image11.png" width="" alt="Option 2: SWITCH TACTILE SPST-NO 0.05A 24V" title="SWITCH TACTILE SPST-NO 0.05A 24V">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image6.png" width="" alt="Option 2: SWITCH TACTILE SPST-NO 0.05A 24V" title="SWITCH TACTILE SPST-NO 0.05A 24V">
 <p>
 Option 2<br>
 SWITCH TACTILE SPST-NO 0.05A 24V<br>
@@ -366,7 +366,7 @@ $0.14/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image12.png" width="" alt="Option 3: CKN12221-1-ND" title="CKN12221-1-ND">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image7.png" width="" alt="Option 3: CKN12221-1-ND" title="CKN12221-1-ND">
 <p>
 Option 3<br>
 CKN12221-1-ND<br>
@@ -402,7 +402,7 @@ $0.14/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image13.png" width="" alt="Option 1: ALITOVE 12V 5A" title="ALITOVE 12V 5A">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image9.png" width="" alt="Option 1: ALITOVE 12V 5A" title="ALITOVE 12V 5A">
 <p>
 Option 1<br>
 ALITOVE 12V 5A<br>
@@ -433,7 +433,7 @@ $12.99/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image14.png" width="" alt="Option 2: 1286-1213-ND" title="1286-1213-ND">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image4.png" width="" alt="Option 2: 1286-1213-ND" title="1286-1213-ND">
 <p>
 Option 2<br>
 1286-1213-ND<br>
@@ -463,7 +463,7 @@ $7.99/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image15.png" width="" alt="Option 3: Generic 12V 3A" title="Generic 12V 3A">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image1.png" width="" alt="Option 3: Generic 12V 3A" title="Generic 12V 3A">
 <p>
 Option 3<br>
 Generic 12V 3A<br>
@@ -484,5 +484,5 @@ $4.99/ each<br>
   </tr>
 </table>
 
-**Choice**: Option 2: 1286-1213-ND  
-**Rationale**: This power supply provides the best current and voltage ratings for the motors, while remaining reasonably priced and having multiple suppliers to choose from.
+**Choice**: Option 1: ALITOVE 12V 5A 
+**Rationale**: The DC power jack connector and the ability to switch the connection type is the most useful, combined with being the cheapest option out of the potential choices. Additionally, the Amperage should be fine, as the motor should never stall in its intended application.
