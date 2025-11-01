@@ -463,26 +463,27 @@ $7.99/ each<br>
   </tr>
   <tr>
    <td>
-<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/image1.png" width="" alt="Option 3: Generic 12V 3A" title="Generic 12V 3A">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/02-Component-Selection/images/new_image1.png" width="" alt="Option 3: Generic 12V 3A" title="Generic 12V 3A">
 <p>
 Option 3<br>
-Generic 12V 3A<br>
-$4.99/ each<br>
-<em><a href="https://www.amazon.com/12V-3A-Adapter-100-240V-Converter/dp/B08F8QXH4X">Link to product</a></em>
+Tri-Mag 12V 3A<br>
+$10.36/ each<br>
+<em><a href="https://www.digikey.com/en/products/detail/tri-mag-llc/L6R36-120/7682645">Link to product</a></em>
    </td>
    <td>
 <ul>
 <li>Cheap and easy to order</li>
+<li>Barrel Jack connection to use the class supplies</li>  
 </ul>
    </td>
    <td>
 <ul>
-<li>Not enough current for full motor stall</li>
 <li>Variable quality of generic adapters</li>
+<li>Lower amperage than other options</li>
 </ul>
    </td>
   </tr>
 </table>
 
-**Choice**: Option 1: ALITOVE 12V 5A 
-**Rationale**: The DC power jack connector and the ability to switch the connection type is the most useful, combined with being the cheapest option out of the potential choices. Additionally, the Amperage should be fine, as the motor should never stall in its intended application.
+**Choice**: Option 3: Tri-Mag 12V 3A
+**Rationale**: The DC power jack connector is fairly inexpensive, and supplies 3A of power, which is all that is neccessary to power the system, making it more worth the price.
