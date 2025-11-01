@@ -14,4 +14,4 @@ From the prepare Power Budget, it is clear that all componenets will be able to 
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Power_Budget_Image.pdf), and a Microsoft Excel Sheet [*here*](https://github.com/riatron8/riatron8.github.io/blob/main/docs/05-Power-Budget/Riley_Franco_Power_Budget.xlsx).
+The power budget as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Final_Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Riley_Franco_Power_Budget.xlsx).
