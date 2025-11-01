@@ -10,4 +10,4 @@ This block diagram is intended to convey how this section of the team's project 
 
 
 ## Block Diagram 
-![Riley Franco Block Diagram](https://github.com/riatron8/riatron8.github.io/raw/main/docs/01-Block-Diagram/Updated_Riley_Franco_Block_Diagram.png)
+![Riley Franco Block Diagram](https://github.com/riatron8/riatron8.github.io/raw/main/docs/01-Block-Diagram/Complete_Riley_Franco_Block_Diagram.png)
