@@ -193,8 +193,8 @@ $141.02/ each<br>
   </tr>
 </table>
 
-**Choice**: Option 1: Pololu 4754 Metal Gearmotor  
-**Rationale**: The Pololu 4754 has the best features for the price. While the Portescap 17N78210E.1 likely outclasses it in terms of features, the significantly higher price is too much. Conversely, although option 2 is much less expensive, it likely will not be able to handle the necessary operations to complete the project.
+**Choice**: Option 1: Pololu 3483 Metal Gearmotor  
+**Rationale**: The Pololu 3483 has the best features for the price. While the Portescap 17N78210E.1 likely outclasses it in terms of features, the significantly higher price is too much. Conversely, although option 2 is much less expensive, it likely will not be able to handle the necessary operations to complete the project.
 
 ---
 
