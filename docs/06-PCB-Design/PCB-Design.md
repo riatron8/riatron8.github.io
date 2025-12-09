@@ -8,8 +8,11 @@ This PCB is designed to control a motor using the Curiosity Nano microcontroller
 
 
 <img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/06-PCB-Design/Riley_Franco_PCB.png" alt="schematic" width="750" height="750">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/06-PCB-Design/PCB_Front.png" alt="schematic" width="750" height="750">
+<img src="https://github.com/riatron8/riatron8.github.io/raw/main/docs/06-PCB-Design/PCB_Back.png" alt="schematic" width="750" height="750">
 
-**Figure 02:** Showing the PCB.
+
+**Figure 02:** Showing the PCB in KiCad, as well as the unpopulated front and back. Due to the boards arriving too late in the semester, I have not had time to properly populate and test the board for display.
 
 ## Resouces
 
