@@ -8,5 +8,5 @@ This code was used to enable the microcontroller to perform the actions neccesar
 
 
 
-The code is available to be downloaded as a zip file [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/07-Microcontroller-Code/Individual_Subsystem.zip),
+The code is available to be downloaded as a zip file [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/07-Resources/Individual_Subsystem%20(1).zip)
 
