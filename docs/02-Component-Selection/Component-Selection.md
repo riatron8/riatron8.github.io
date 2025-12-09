@@ -1,3 +1,40 @@
+**Component Selection**
+
+<table>
+  <tr>
+   <td><strong>Category</strong>
+   </td>
+   <td><strong>Chosen Solution</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Motor Control
+   </td>
+   <td>Fairchild FAN 8100N
+   </td>
+  </tr>
+  <tr>
+   <td>Motor
+   </td>
+   <td>Pololu 3483 Metal Gearmotor
+   </td>
+  </tr>
+  <tr>
+   <td>Voltage Regulator
+   </td>
+   <td>Taejin LM7805T
+   </td>
+  </tr>
+  <tr>
+   <td>Primary Power Supply
+   </td>
+   <td>Tri-Mag 12V 3A
+   </td>
+  </tr>
+</table>
+
+
+
 **MOTOR CONTROL**
 
 <table>
