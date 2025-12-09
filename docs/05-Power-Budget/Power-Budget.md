@@ -10,8 +10,8 @@ This power budget is intended to show and ensure that the components of the subs
 
 ## Conclusions
 
-From the prepare Power Budget, it is clear that all componenets will be able to operate under worst-case conditions, ensuring that the design is safe to use and is very unlikely to break as a result of an overdraw of current.
+From the prepared Power Budget, it is clear that all componenets will be able to operate under worst-case conditions, ensuring that the design is safe to use and is very unlikely to break as a result of an overdraw of current. The creation of a power budget has informed my componenet selection, ensuring that a proper power supply was chosen in order to accomidate the motor's voltage requirement and current draw.
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Riley_Franco_Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Final_Riley_Franco_Power_Budget.xlsx).
+The power budget as a PDF download is available [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Riley_Franco_Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](https://github.com/riatron8/riatron8.github.io/raw/main/docs/05-Power-Budget/Riley_Franco_Power_Budget.xlsx).
